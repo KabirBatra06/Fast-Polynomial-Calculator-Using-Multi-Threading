@@ -1,7 +1,5 @@
 ## GOAL
-Design and implement a polynomial library to support various operations such as addition, multiplication
-and comparison
-Create a fast polynomial multiplication algorithm using Multithreading
+Design and implement a polynomial library to support various operations such as addition, multiplication and comparison. Create a fast polynomial multiplication algorithm using Multithreading
 
 ## CODE EXPLAINATION
 
